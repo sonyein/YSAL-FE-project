@@ -6,9 +6,10 @@
     font-size: 30px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(0,0,0);
+    align-self: center;
 }
 
-.nav-items a {
+.nav-item a {
     font-size:20px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(5, 5, 5);
